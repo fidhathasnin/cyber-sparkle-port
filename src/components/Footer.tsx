@@ -11,7 +11,7 @@ const Footer = () => {
           
           <div className="flex justify-center gap-6">
             <a 
-              href="https://www.linkedin.com/in/fidha-thasni-n-a78402239" 
+              href="https://www.linkedin.com/in/fidha-thasni-n/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-primary hover:text-accent transition-colors"
@@ -20,7 +20,7 @@ const Footer = () => {
               <Linkedin className="h-6 w-6" />
             </a>
             <a 
-              href="https://github.com/fidha04" 
+              href="https://github.com/fidhathasnin" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-primary hover:text-accent transition-colors"
